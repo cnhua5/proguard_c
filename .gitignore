@@ -1,6 +1,7 @@
 *.class
 
 /lib/
+/bin
 # OS X
 .DS_Store
 
